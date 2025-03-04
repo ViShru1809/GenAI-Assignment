@@ -24,4 +24,5 @@ matplotlib
 
 Installation:
 Make sure to have Python installed and install the necessary libraries:
+
 pip install numpy matplotlib
